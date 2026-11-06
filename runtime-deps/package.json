@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@deepseek-ai/dsh": "0.2.2-rc.1"
+  },
+  "name": "codex-dsh-worker-runtime",
+  "private": true
+}

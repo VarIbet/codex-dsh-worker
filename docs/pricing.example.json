@@ -1,0 +1,11 @@
+{
+  "model": "deepseek-flash",
+  "currency": "USD",
+  "cache_hit": 0,
+  "cache_miss": 0,
+  "output": 0,
+  "verified_date": "not-configured",
+  "valid_until": 0,
+  "source": "https://api-docs.deepseek.com/quick_start/pricing/",
+  "note": "Disabled example. After checking official prices, enter USD per 1M tokens for off-peak and a future Unix expiration. Peak estimate is currently 2x off-peak; update estimator if policy changes."
+}
